@@ -15,7 +15,7 @@ public class OtraActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_otra);
         ActionBar actionBar= getActionBar();
-        actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
+      actionBar.setNavigationMode(ActionBar.NAVIGATION_MODE_TABS);
 
 
 
